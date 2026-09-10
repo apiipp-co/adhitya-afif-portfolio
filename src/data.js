@@ -310,7 +310,12 @@ export const experiences = [
       'Tested, debugged, and managed source code using Git & GitHub.'
     ],
     technologies: ['Laravel', 'PHP', 'MySQL', 'Bootstrap', 'Git'],
-    images: []
+    images: [
+      {
+        src: '/About/Experience/Winnicode/msib-thumbnail.png',
+        caption: 'MSIB Kampus Merdeka — Full-Stack Web Development at Winnicode'
+      }
+    ]
   },
 ];
 
