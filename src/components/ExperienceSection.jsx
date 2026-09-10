@@ -51,7 +51,9 @@ export default function ExperienceSection() {
                       <img
                         src={exp.logo}
                         alt={exp.company}
-                        className="w-full h-full object-contain"
+                        className={`w-full h-full ${
+                          exp.logoFit === "cover" ? "object-cover" : "object-contain"
+                        } ${exp.logoScale || ""}`}
                       />
                     ) : (
                       <span className="material-symbols-outlined text-primary text-[28px]">

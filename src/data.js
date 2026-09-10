@@ -274,6 +274,8 @@ export const experiences = [
     period: 'Apr 2025 — May 2025',
     type: 'Internship',
     logo: '/images/logos/diskominfo-diy.jpeg',
+    logoFit: 'cover',
+    logoScale: 'scale-[1.08]',
     description:
       'Contributed to the development of the Jogja Istimewa (JogJis) application by designing responsive interfaces, implementing Flutter components, and integrating REST APIs.',
     responsibilities: [
@@ -297,6 +299,8 @@ export const experiences = [
     period: 'Jan 2024 — Jun 2024',
     type: 'MSIB Kampus Merdeka',
     logo: '/images/logos/winnicode-garuda.jpeg',
+    logoFit: 'contain',
+    logoScale: 'scale-[1.08]',
     description:
       'Built a responsive online news platform with 6 core modules, including authentication, search, CRUD content management, and an admin dashboard.',
     responsibilities: [
