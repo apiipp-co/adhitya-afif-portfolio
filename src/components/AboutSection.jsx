@@ -93,7 +93,7 @@ export default function AboutSection() {
               <h3 className="font-display-lg-mobile text-primary uppercase font-extrabold mb-3">
                 {personal.about.intro}
               </h3>
-              <p className="font-body-md text-body-md text-on-surface mb-4 max-w-3xl leading-relaxed whitespace-pre-line">
+              <p className="font-body-md text-body-md text-on-surface mb-4 max-w-3xl leading-relaxed whitespace-pre-line text-justify">
                 {personal.about.description}
               </p>
               <div className="mt-auto pt-4 border-t-2 border-on-surface flex items-center gap-2 text-xs font-bold text-on-surface-variant font-label-caps">
