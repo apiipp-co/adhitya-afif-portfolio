@@ -296,6 +296,7 @@ export const experiences = [
     company: 'PT Winnicode Garuda Indonesia',
     period: 'Jan 2024 — Jun 2024',
     type: 'MSIB Kampus Merdeka',
+    logo: '/images/logos/winnicode-garuda.jpeg',
     description:
       'Built a responsive online news platform with 6 core modules, including authentication, search, CRUD content management, and an admin dashboard.',
     responsibilities: [
