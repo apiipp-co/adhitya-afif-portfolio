@@ -45,7 +45,7 @@ export const personal = {
   ],
 
   description:
-    'Informatics Engineering undergraduate focused on AI Engineering and Full-Stack Development, building intelligent, scalable, and user-centered digital products.',
+    'Final-year Informatics Engineering student focused on AI Engineering and Full-Stack Development, building intelligent, scalable, and user-centered digital products.',
 
   email: 'adhityaardana73@gmail.com',
   location: 'Yogyakarta, Indonesia',
@@ -58,12 +58,12 @@ export const personal = {
       'I build technology with purpose.',
 
     description:
-      'I\'m Adhitya Afif, an Informatics Engineering undergraduate at Universitas Sarjanawiyata Tamansiswa, with a technical background in Computer and Network Engineering. I\'m particularly interested in AI Engineering and Full-Stack Development, with a growing focus on building intelligent, scalable, and user-centered digital products.\n\nI enjoy combining software engineering, artificial intelligence, and product thinking to transform ideas and real-world challenges into practical digital solutions. Through hands-on projects, academic research, and continuous learning, I\'m strengthening my skills in modern web development, backend systems, machine learning, Generative AI, and cloud technologies.',
+      'I\'m Adhitya Afif, a final-year Informatics Engineering student at Universitas Sarjanawiyata Tamansiswa, with a technical foundation in Computer and Network Engineering. I focus on AI Engineering and Full-Stack Development, building intelligent, scalable, and user-centered digital products.\n\nI combine software engineering, artificial intelligence, and product thinking to turn real-world challenges into practical digital solutions. Through hands-on projects, academic research, and continuous learning, I\'m sharpening my skills in modern web development, backend systems, machine learning, Generative AI, and cloud technologies as I prepare to launch my career in technology.',
 
     location: 'Yogyakarta, Indonesia',
 
     role:
-      'Informatics Engineering Undergraduate · Front-End Developer · UI/UX Designer · Machine Learning Enthusiast'
+      'Final-Year Informatics Engineering Student · AI Engineering Enthusiast · Full-Stack Developer · UI/UX Designer'
   }
 };
 
@@ -324,13 +324,13 @@ export const education = [
     period: '2022 — 2027 · Expected Graduation',
     logo: '/images/logos/ust.png',
     description:
-      'Informatics Engineering undergraduate building a strong foundation in software engineering, artificial intelligence, machine learning, data analysis, UI/UX design, IoT, and embedded systems. Experienced in turning academic concepts into project-based solutions that combine reliable software, intelligent systems, and user-centered design to solve real-world problems.',
+      'Final-year Informatics Engineering student building a strong foundation in software engineering, artificial intelligence, machine learning, data analysis, UI/UX design, IoT, and embedded systems. Experienced in turning academic concepts into project-based solutions that combine reliable software, intelligent systems, and user-centered design to solve real-world problems.',
     details: [
       'Currently pursuing a Bachelor of Informatics Engineering with an expected graduation in 2027.',
       'Developed academic projects across web development, intelligent systems, IoT, microcontrollers, sensor integration, and embedded systems—turning technical concepts into functional prototypes.',
       'Applied software engineering, data analysis, machine learning, and user-centered design principles through individual and collaborative projects.',
       'Built hands-on experience in computer networks, system development, research, data processing, and intelligent system implementation.',
-      'Currently completing an undergraduate thesis on sentiment analysis using machine learning and Transformer-based NLP models.'
+      'Currently completing a final-year thesis on sentiment analysis using machine learning and Transformer-based NLP models.'
     ],
     images: [
       { src: '/About/Education/UST/campus-aerial.jpg', caption: 'Universitas Sarjanawiyata Tamansiswa — Aerial Campus View' },
