@@ -273,6 +273,7 @@ export const experiences = [
     location: 'Yogyakarta, Indonesia',
     period: 'Apr 2025 — May 2025',
     type: 'Internship',
+    logo: '/images/logos/diskominfo-diy.jpeg',
     description:
       'Contributed to the development of the Jogja Istimewa (JogJis) application by designing responsive interfaces, implementing Flutter components, and integrating REST APIs.',
     responsibilities: [
