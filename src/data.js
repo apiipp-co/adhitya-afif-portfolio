@@ -418,6 +418,8 @@ export const trainings = [
     company: 'BLKPP Special Region of Yogyakarta',
     period: 'May 2026 — Jun 2026',
     type: 'Competency-Based Training (PBK/CBT)',
+    logo: '/images/logos/blkpp-diy-yogyakarta.jpg',
+    logoFit: 'contain',
     description:
       'Completed competency-based training in Data Analyst and Data Science, covering data processing, analysis, visualization, machine learning fundamentals, and data-driven problem solving.',
     details: [
